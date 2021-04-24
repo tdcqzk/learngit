@@ -4,4 +4,5 @@ git is under GPL
 will be delete
 working directory and repository
 how to clarify
+stuip
 
